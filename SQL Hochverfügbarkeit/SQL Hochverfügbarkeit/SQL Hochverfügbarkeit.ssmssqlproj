@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Hochverfügbarkeit">
+  <Items>
+    <LogicalFolder Name="Verbindungen" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Abfragen" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="02_ScriptFürPrimDB.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02_ScriptFürPrimDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02_Wiederhertellungsmodel.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02_Wiederhertellungsmodel.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_Logshipping.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03_Logshipping.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_SciptfürReplika.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03_SciptfürReplika.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Cluster_Inventar.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_Cluster_Inventar.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Mirror.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_Mirror.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Spiegelung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_Spiegelung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05_SQLCluster.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05_SQLCluster.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_AVG.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06_AVG.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10c_SQL Condition LEvel setzen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10c_SQL Condition LEvel setzen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Bestandserfassung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Bestandserfassung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_help_revlogin.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_help_revlogin.sql</FullPath>
+        </FileNode>
+        <FileNode Name="toDO.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>toDO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="X_Recap.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>X_Recap.sql</FullPath>
+        </FileNode>
+        <FileNode Name="X-SystemDBs.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>X-SystemDBs.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="SQL HADR Dez 2021.ssmssqlproj">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL HADR Dez 2021.ssmssqlproj</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
