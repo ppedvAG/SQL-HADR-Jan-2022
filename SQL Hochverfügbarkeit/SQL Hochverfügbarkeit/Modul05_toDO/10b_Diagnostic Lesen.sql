@@ -56,6 +56,7 @@ CREATE TABLE SpServerDiagnosticsResult
       state_desc sysname,  
       data xml  
 );  
+
 INSERT INTO SpServerDiagnosticsResult  
 EXEC sp_server_diagnostics ; --Parameter für Wiedergolung geht hier nicht
 
@@ -66,7 +67,7 @@ GO 5
 
 SELECT create_time,
        component_name,
-       state_desc 
+       state_desc, * 
 FROM SpServerDiagnosticsResult;
 
 -- system
