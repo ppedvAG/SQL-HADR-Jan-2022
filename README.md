@@ -1,31 +1,32 @@
 # SQL HADR Jan 2022
- 
+ ## Unterordner beachten.. sind im SSMS nicht gleich sichtbar
+ ## dort sind auf die Screenshots des PSR unter anderem!!
 
- # Überblick
+ # Ãœberblick
  * Entscheidungsmatrix
 
  # Logshipping
- * Aufträge
+ * AuftrÃ¤ge
 
  # Spiegeln
  * Spiegelungsmonitor
- * TSQL für Spiegelung / Failover
+ * TSQL fÃ¼r Spiegelung / Failover
  * Test
 
  # Windows Cluster
  * Planung der Netzwerke und Quoren
  * iSCSI Server einrichten
  * FCL einrichten
- * Prüfbericht
+ * PrÃ¼fbericht
 
 
  # SQL Cluster
  * Installation 
  * Ausfalltest
 
- # Hochverfügbarkeitsgruppen
+ # HochverfÃ¼gbarkeitsgruppen
  * Einrichten mit einer DB
- * hinzufügen einer DB zu einer Gruppe
+ * hinzufÃ¼gen einer DB zu einer Gruppe
  * Ausfalltest
 
  # Replikation
@@ -33,6 +34,6 @@
  * Einrichten einer Merge Replikation
 
  #toDO
- * Umzug von Logins und Aufträgen
- * KOmbinationsmöglicheiten
- * Cluster Condition Level einstellen für Failover
+ * Umzug von Logins und AuftrÃ¤gen
+ * KOmbinationsmÃ¶glicheiten
+ * Cluster Condition Level einstellen fÃ¼r Failover
